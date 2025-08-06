@@ -1,1 +1,1 @@
-# golang-zero-to-hero
+# Blockchain Technology in Golang
